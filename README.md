@@ -1,13 +1,13 @@
 # FigBackend-Server
 
 > [!WARNING]
-> ⚠️ **Status**: This is project is currently **under software development**.
+> **Status**: This is project is currently **under software development**.
 
 Backend server build with **Node.js**.
 
 ---
 
-# 📦 Requirements
+## 📦 Requirements
 
 - **Node.js**
 - **Domain**
@@ -16,7 +16,7 @@ Backend server build with **Node.js**.
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 ### 1. Clone the repository
 
@@ -33,7 +33,7 @@ npm install
 
 ---
 
-# ▶️ Usage
+## ▶️ Usage
 
 Start the normally with Node.js:
 
